@@ -1,4 +1,4 @@
-I'm a Backend Python Developer specializing in high-performance and scalable backend architectures. Currently, I'm working on building a high-load recommendation system.
+I'm a Backend Python Developer specializing in high-performance and scalable backend architectures. Currently, I'm working on building a high-load recommendation system in DNS TECHNOLOGY.
 
 ## 💡 About Me
 - Passionate about scalable and efficient microservices.
