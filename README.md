@@ -1,6 +1,6 @@
 I'm a Backend Python Developer specializing in high-performance and scalable backend architectures. Currently, I'm working on building a high-load recommendation system.
 
-## 💡 About Me
+## ☕ About Me
 - Passionate about scalable and efficient microservices.
 - Experienced in real-time data processing and distributed architectures.
 - Always exploring new technologies and best practices.
